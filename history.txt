@@ -4,5 +4,3 @@ Then he will explore into other courses including multiplatform apps.
 
 Hope he has good luck with all that.
 
-Vamos a ver si este programa detecta que tengo Linux Ubuntu instalado y uso Git
-desde ahi.
